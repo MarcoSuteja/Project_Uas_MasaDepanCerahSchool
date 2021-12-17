@@ -5,4 +5,4 @@ https://docs.google.com/presentation/d/1lJ1-oYofO6ZsiNFmVXMHv6n1u9PI5adj51Yo8dmK
 MenuHome,Menu About,Menu Kontak,Menu Artikel,Menu Pengumuman,Menu Agenda,Login, Register dan Logout,Upload Artikel,Upload Agenda,Upload Pengumuman, Edit Profile dan Ganti Password <br>
 # File Yang Terlampir:s
 Source Code <br>
-Databace (File SCL)
+Databace (File SQL)
